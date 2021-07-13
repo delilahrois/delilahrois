@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @delilahrois
-- 👀 I’m interested in front-end engineering & design
+- ✨ I’m interested in front-end engineering & design
 - 🌱 I’m currently learning JavaScript at Turing School 
 - 📫 You can reach me at delilahnecrason@gmail.com
 
