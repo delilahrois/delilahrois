@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @delilahrois
-- ✨ I’m interested in front-end engineering & design
-- 🌱 I’m currently learning JavaScript at Turing School 
-- 📫 You can reach me at delilahnecrason@gmail.com
+# Hi. I'm Delilah!
 
-<!---
-delilahrois/delilahrois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a frontend engineering student at [Turing School of Software & Design.](https://turing.edu/) I am passionate about sustainability, accessibility, and responsive design. Before tech, I was in hospitality management, where I found success creatively managing a team for front-of-house operations at a busy downtown eatery here in Portland. 
+When I'm not coding, you can find me backstage at a show 🎤, tending to my plants 🪴, cooking / baking 🍰 , or curled up with a good book / knitting project! 🧶 
+
+
