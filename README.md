@@ -1,5 +1,5 @@
 # Hello! So happy to meet you. 👋🏻 👩‍💻
-[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />](www.linkedin.com/in/delilahrose)
+[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/delilahrose)
 
 My name is Delilah and I'm a front-end software engineer out of [Turing School.](https://turing.edu/) I am passionate about sustainability, accessibility, and responsive design. Before tech I was in hospitality management, where I found success creatively managing a team for front-of-house operations at a busy downtown eatery here in Portland, Maine. 
 
