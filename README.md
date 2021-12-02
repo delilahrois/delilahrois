@@ -1,4 +1,4 @@
-# Hello! So happy to meet you 👋🏻 👩‍💻. <img src="https://komarev.com/ghpvc/?username=delilahrois"/>
+# Hello! So happy to meet you. 👋🏻 👩‍💻
 
 My name is Delilah and I'm a front-end software engineer out of [Turing School.](https://turing.edu/) I am passionate about sustainability, accessibility, and responsive design. Before tech I was in hospitality management, where I found success creatively managing a team for front-of-house operations at a busy downtown eatery here in Portland, Maine. 
 
