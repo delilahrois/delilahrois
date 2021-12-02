@@ -2,7 +2,7 @@
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/delilahrose) 
 <!-- []() -->
 
-My name is Delilah and I'm a front-end software engineer out of [Turing School.](https://turing.edu/) Currently seeking a position that will foster continued growth and excellence!
+My name is Delilah and I'm a front-end software engineer out of [Turing School.](https://turing.edu/) I am currently seeking a position that will foster my continued growth as a developer.
 
 I am passionate about sustainability, accessibility, and responsive design. Before tech I was in hospitality management, where I found success creatively managing a team for front-of-house operations at a busy downtown eatery here in Portland, Maine. 
 
