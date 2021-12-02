@@ -9,7 +9,7 @@ When I'm not coding, you can find me tending to my plants 🪴, cooking / baking
 
 ## Skills
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
 
 ## Currently learning
 
