@@ -4,7 +4,7 @@ My name is Delilah and I'm a front-end software engineer out of [Turing School.]
 
 When I'm not coding, you can find me tending to my plants 🪴, cooking / baking 🍰 , or curled up with a knitting project! 🧶  I am deeply passionate about travel 🌎 and love dreaming about where I'll go next. 🛩️
 
-[![Delilah's GitHub stats](https://github-readme-stats.vercel.app/api?username=delilahrois&theme=radical&show_icons=true)](https://github.com/delilahrois/github-readme-stats). [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delilahrois&theme=radical&show_icons=true)](https://github.com/delilahrois/github-readme-stats)
+[![Delilah's GitHub stats](https://github-readme-stats.vercel.app/api?username=delilahrois&theme=radical&show_icons=true)](https://github.com/delilahrois/github-readme-stats).           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delilahrois&theme=radical&show_icons=true)](https://github.com/delilahrois/github-readme-stats)
 
 
 ## Skills
