@@ -2,16 +2,18 @@
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/delilahrose) 
 <!-- []() -->
 
-My name is Delilah and I'm a front-end software engineer out of [Turing School.](https://turing.edu/) I am currently seeking a position that will foster my continued growth as a developer. ✨
+My name is Delilah and I'm a front-end software engineer at [Turbine Labs.](https://www.turbinelabs.com/) ✨
 
-I am passionate about sustainability, accessibility, and responsive design. Before tech I was in hospitality management, where I found success creatively managing a team for front-of-house operations at a busy downtown eatery here in Portland, Maine. 🦞
+I am passionate about sustainability, accessibility, and responsive design. Before tech I was in hospitality management, where I found success creatively managing a team for front-of-house operations at a busy downtown eatery in Portland, Maine. 🦞
 
 When I'm not coding, you can find me tending to my plants 🪴, cooking / baking 🍰 , or curled up with a knitting project! 🧶  I am deeply passionate about travel 🌎 and love dreaming about where I'll go next. 🛩️
 
-[![Delilah's GitHub stats](https://github-readme-stats.vercel.app/api?username=delilahrois&theme=radical&show_icons=true)](https://github.com/delilahrois/github-readme-stats)          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delilahrois&theme=radical&show_icons=true)](https://github.com/delilahrois/github-readme-stats)
+[![Delilah's GitHub stats](https://github-readme-stats.vercel.app/api?username=delilahrois&theme=radical&show_icons=true&count_private=true)](https://github.com/delilahrois/github-readme-stats)
 
 
 ## Skills
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
@@ -27,6 +29,5 @@ When I'm not coding, you can find me tending to my plants 🪴, cooking / baking
 
 ## Currently learning
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
