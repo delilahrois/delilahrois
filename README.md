@@ -4,7 +4,7 @@
 
 My name is Delilah and I'm a front-end software engineer at [Turbine Labs.](https://www.turbinelabs.com/) ✨
 
-I am passionate about sustainability, efficiency, and responsive design. On our small team at Turbine I was able to get involved in almost every aspect of our development process, lending me important skills and understanding of backend technologies as well as a deeper understanding of Typescript, React, and Agile workflows.
+I am passionate about sustainability, efficiency, and responsive design. On our small team at Turbine I was able to get involved in almost every aspect of our development process, lending me important skills and comprehension of backend technologies as well as a deeper understanding of Typescript, React, and Agile workflows.
 
 Before tech I was in hospitality management, where I found success creatively managing a team for front-of-house operations at a busy downtown eatery in Portland, Maine. 🦞
 
