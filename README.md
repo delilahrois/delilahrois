@@ -4,11 +4,11 @@
 
 My name is Delilah and I'm a front-end software engineer at [Turbine Labs.](https://www.turbinelabs.com/) ✨
 
-I am passionate about sustainability, accessibility, and responsive design. Before tech I was in hospitality management, where I found success creatively managing a team for front-of-house operations at a busy downtown eatery in Portland, Maine. 🦞
+I am passionate about sustainability, efficiency, and responsive design. On our small team at Turbine I was able to get involved in almost every aspect of our development process, lending me important skills and understanding of backend technologies as well as a deeper understanding of Typescript, React, and Agile workflows.
+
+Before tech I was in hospitality management, where I found success creatively managing a team for front-of-house operations at a busy downtown eatery in Portland, Maine. 🦞
 
 When I'm not coding, you can find me tending to my plants 🪴, cooking / baking 🍰 , or curled up with a knitting project! 🧶  I am deeply passionate about travel 🌎 and love dreaming about where I'll go next. 🛩️
-
-[![Delilah's GitHub stats](https://github-readme-stats.vercel.app/api?username=delilahrois&theme=radical&show_icons=true&count_private=true)](https://github.com/delilahrois/github-readme-stats)
 
 
 ## Skills
@@ -23,10 +23,7 @@ When I'm not coding, you can find me tending to my plants 🪴, cooking / baking
 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) 
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Currently learning
 
