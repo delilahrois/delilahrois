@@ -2,7 +2,7 @@
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/delilahrose) 
 <!-- []() -->
 
-My name is Delilah and I'm a front-end software engineer at [Evodince.](https://evodince.com/) ✨
+My name is Delilah and I'm a software engineer at [Evodince.](https://evodince.com/) ✨
 
 I am passionate about sustainability, scalability, and responsive design. On my last small team I was able to get involved in almost every aspect of our development process, lending me important skills and comprehension of backend technologies as well as a deeper understanding of Typescript, React, and Agile workflows. Now at Evodince, I am leading our engineering development with a Javascript application for audience intelligence.
 
